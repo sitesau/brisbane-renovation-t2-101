@@ -1,0 +1,12 @@
+# llms.txt for brisbane-renovation-t2-101
+
+This page is an independent T2 cloudlink node in a chain structure.
+
+## Primary link
+- Links to buffer T2: https://sitesau.github.io/brisbane-renovation-services/
+
+## Context
+- Node role: feeder (middle)
+- Money target: brisbanerenovation.com.au (T1 links to money, this T2 does not)
+- Tier: T2
+- Structure: chain
